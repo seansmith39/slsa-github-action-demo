@@ -1,0 +1,12 @@
+{
+  "name": "@seansmith39/awesome-node-cli",
+  "version": "0.1.5",
+  "type": "module",
+  "description": "This app was build using SLSA requirements",
+  "main": "index.js",
+  "repository": "https://github.com/seansmith39/slsa-github-action-demo",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
+}
