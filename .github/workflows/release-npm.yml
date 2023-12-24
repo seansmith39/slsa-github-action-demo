@@ -4,6 +4,8 @@ on:
   push:
     tags:
       - v**
+    branches:
+      - main
 
 env:
   COSIGN_EXPERIMENTAL: 1
