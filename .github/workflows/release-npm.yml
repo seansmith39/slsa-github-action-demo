@@ -11,7 +11,7 @@ env:
   COSIGN_EXPERIMENTAL: 1
   ATT_IMAGE: ghcr.io/seansmith39/slsa-github-action-demo/attestations
   PKG_NAME: awesome-node-cli
-  SIGSTORE_VERSION: v1.6.0
+  SIGSTORE_VERSION: v1.9.0
 
 jobs:
   npm-package:
